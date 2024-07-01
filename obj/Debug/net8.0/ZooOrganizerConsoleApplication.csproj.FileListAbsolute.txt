@@ -1,0 +1,14 @@
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\bin\Debug\net8.0\ZooOrganizerConsoleApplication.exe
+C:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\bin\Debug\net8.0\ZooOrganizerConsoleApplication.deps.json
+C:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\bin\Debug\net8.0\ZooOrganizerConsoleApplication.runtimeconfig.json
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\bin\Debug\net8.0\ZooOrganizerConsoleApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\bin\Debug\net8.0\ZooOrganizerConsoleApplication.pdb
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.AssemblyInfoInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.AssemblyInfo.cs
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.csproj.CoreCompileInputs.cache
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\refint\ZooOrganizerConsoleApplication.dll
+c:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.pdb
+C:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ZooOrganizerConsoleApplication.genruntimeconfig.cache
+C:\Users\Administrateur\Desktop\osa\CsharpProject\ZooOrganizerConsoleApplication\obj\Debug\net8.0\ref\ZooOrganizerConsoleApplication.dll
